@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\SalaDeGimanastica.exe
+C:\Users\User\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\SalaDeGimanastica.deps.json
+C:\Users\User\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\SalaDeGimanastica.runtimeconfig.json
+C:\Users\User\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\SalaDeGimanastica.runtimeconfig.dev.json
+C:\Users\User\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\SalaDeGimanastica.dll
+C:\Users\User\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\SalaDeGimanastica.pdb
+C:\Users\User\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\SalaDeGimanastica.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.Form1.resources
+C:\Users\User\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\SalaDeGimanastica.Properties.Resources.resources
+C:\Users\User\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\SalaDeGimanastica.csproj.GenerateResource.cache
+C:\Users\User\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\SalaDeGimanastica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\SalaDeGimanastica.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\SalaDeGimanastica.AssemblyInfo.cs
+C:\Users\User\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\SalaDeGimanastica.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\SalaDeGimanastica.dll
+C:\Users\User\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\SalaDeGimanastica.pdb
+C:\Users\User\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\SalaDeGimanastica.genruntimeconfig.cache
